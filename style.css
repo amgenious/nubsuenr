@@ -276,3 +276,12 @@ a {
         margin-bottom: 10px;
     }
 }
+@media screen and (max-width:769px){
+    #card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-bottom: 20px;
+    }
+   
+}
